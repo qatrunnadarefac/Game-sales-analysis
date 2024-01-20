@@ -1,5 +1,3 @@
-the original database Game Sales : https://docs.google.com/spreadsheets/d/1wJSHUzDQZejSKQkDSKSuFK_JXGuqJc9CLJoApMD_XaI/view?usp=sharing
-
 Game Sales Analysis with Visualization : https://docs.google.com/spreadsheets/d/1GX6sDb0Qv9yDoi63RRTs0t_ckbVu0T0DrTztJOzxJQs/view?usp=sharing
 
 
