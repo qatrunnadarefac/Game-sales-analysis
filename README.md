@@ -1,4 +1,4 @@
-After cleaning using python, I analyze Game Sales with Pivot Table, XLOOPUP, and Chart using Sheet : 
+After cleaning using python, I analyze Game Sales with Pivot Table, XLOOKUP, and Chart using Sheet : 
 https://docs.google.com/spreadsheets/d/1GX6sDb0Qv9yDoi63RRTs0t_ckbVu0T0DrTztJOzxJQs/view?usp=sharing
 
 
