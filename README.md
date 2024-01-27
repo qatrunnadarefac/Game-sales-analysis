@@ -24,12 +24,21 @@ Publisher : Publisher of the game
 - Question to be answered
 
 Which game is the oldest and the newest games in that dataset?
-Ans: 
+
+Ans: Hydlide 12/1/1984 (Oldest) and Crusader Kings III 9/1/2020 (Newest)
 
 Which publisher published most of the games?
 
+Ans: Electronic Arts (19 publish)
+
 Which developer developed most of the games?
+
+Ans: Blizzard Entertainment (8 development)
 
 Which series has the most sales?
 
+Ans: Minecraft (33 million)
+
 Which series have the most games?
+
+Ans: Command & Conquer (total 5)
